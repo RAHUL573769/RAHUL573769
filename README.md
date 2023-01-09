@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Rudra</h1>
 <h3 align="center">A passionate Web developer</h3>
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/78131940/211294716-404cf532-9504-4e54-9bd8-c22172716913.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul573769&label=Profile%20views&color=0e75b6&style=flat" alt="rahul573769" /> </p>
 
