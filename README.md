@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rudrarahul77@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vDV-VKXUHpZUiZjzd65uj37WQ-w-jNlH/view?usp=share_link](https://drive.google.com/file/d/1vDV-VKXUHpZUiZjzd65uj37WQ-w-jNlH/view?usp=share_link)
+- 📄 Resume [https://drive.google.com/file/d/1vDV-VKXUHpZUiZjzd65uj37WQ-w-jNlH/view?usp=share_link](https://drive.google.com/file/d/1vDV-VKXUHpZUiZjzd65uj37WQ-w-jNlH/view?usp=share_link)
 
 - ⚡ Fun fact **I am Funny**
 
