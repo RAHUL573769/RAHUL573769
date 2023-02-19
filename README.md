@@ -34,6 +34,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul573769&" alt="rahul573769" /></p>
 <h2 align="center">Visitor Count</h2>
 <p align="center">
-  <img align="center" alt="sahinur31" width="40%" src="https://profile-counter.glitch.me/sahinur31/count.svg" />
+  <img align="center" alt="sahinur31" width="40%" src="https://komarev.com/ghpvc/?username=rahul573769&label=Profile%20views&color=0e75b6&style=flat" alt="rahul573769" />
 </p>
 
