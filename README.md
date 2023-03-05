@@ -1,4 +1,10 @@
 # 💫 About Me:
+<h1 align="center">Hi 👋, I'm Rahul Rudra</h1>
+<h3 align="center">A passionate Web developer</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul573769&label=Profile%20views&color=0e75b6&style=flat" alt="rahul573769" /> </p>
+
 <br>- 🌱 I’m currently learning **Web development**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/RAHUL573769?tab=repositories](https://github.com/RAHUL573769?tab=repositories)<br><br>- 💬 Ask me about **MongoDb, Express Js, React Js, NodeJs,JavaScript**<br><br>- 📫 How to reach me **rudrarahul77@gmail.com**<br><br>- 📄 Resume [https://drive.google.com/file/d/1vDV-VKXUHpZUiZjzd65uj37WQ-w-jNlH/view?usp=share_link](https://drive.google.com/file/d/1vDV-VKXUHpZUiZjzd65uj37WQ-w-jNlH/view?usp=share_link)<br><br>- ⚡ Fun fact **I am Funny**
 
 
