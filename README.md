@@ -19,6 +19,8 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=RAHUL573769&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![RAHUL573769's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAHUL573769&theme=vue-dark&hide_border=true)<br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=RAHUL573769&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ![](https://github-readme-stats-sigma-five.herokuapp.com/?user=RAHUL573769&theme=dark&hide_border=false)<br/>
 
 ![RAHUL573769's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAHUL573769&theme=vue-dark&hide_border=true)
