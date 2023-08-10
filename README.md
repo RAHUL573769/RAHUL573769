@@ -1,4 +1,4 @@
-# 💫 About Me:
+Password123# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Rahul Rudra</h1>
 <h3 align="center">A passionate Web developer
 </h3>
@@ -20,8 +20,7 @@
 ![RAHUL573769's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAHUL573769&theme=vue-dark&hide_border=true)<br/>
 
 ![](https://github-readme-stats-sigma-five.herokuapp.com/?user=RAHUL573769&theme=dark&hide_border=false)<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAHUL573769)
-[![GitHub Streak](https://streak-stats.demolab.com/?user==RAHUL573769&)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHUL573769&hide_progress=true)
 
 
