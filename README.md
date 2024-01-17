@@ -27,7 +27,6 @@
 
 
 
-![](https://github-readme-stats-sigma-five.herokuapp.com/?user=RAHUL573769&theme=dark&hide_border=false)<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHUL573769&hide_progress=true)
 
