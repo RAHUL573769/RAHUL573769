@@ -21,6 +21,12 @@
 
 ![RAHUL573769's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAHUL573769&theme=vue-dark&hide_border=true)<br/>
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RAHUL573769&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/RAHUL573769/github-readme-stats)
+
+
+
+
+
 ![](https://github-readme-stats-sigma-five.herokuapp.com/?user=RAHUL573769&theme=dark&hide_border=false)<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHUL573769&hide_progress=true)
