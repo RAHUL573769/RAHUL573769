@@ -19,8 +19,8 @@
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=RAHUL573769&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 [![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAHUL573769&theme=dracula)]
 <br/>
-<p align="right">[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RAHUL573769&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/RAHUL573769/github-readme-stats)
-</p>
+< align="right"[![Top Langs ](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RAHUL573769&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/RAHUL573769/github-readme-stats)
+
 
 
 ![RAHUL573769's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAHUL573769&theme=vue-dark&hide_border=true)<br/>
