@@ -29,7 +29,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAHUL573769&hide_progress=true)
 
 
 ### ✍️ Random Dev Quote
