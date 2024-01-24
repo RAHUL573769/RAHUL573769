@@ -18,7 +18,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=RAHUL573769&theme=dark&hide_border=false&include_all_commits=false&count_private=false) [![Top Langs ](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RAHUL573769&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/RAHUL573769/github-readme-stats)<br/>
 
-![RAHUL573769's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAHUL573769&theme=vue-dark&hide_border=true) ![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAHUL573769&theme=dracula)]<br/>
+![RAHUL573769's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RAHUL573769&theme=vue-dark&hide_border=true&theme=dracula) ![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAHUL573769&theme=dracula)]<br/>
 
 
 
