@@ -21,9 +21,6 @@
  ![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAHUL573769&theme=dracula)]<br/>
 
 
-[![Top Langs ](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RAHUL573769&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/RAHUL573769/github-readme-stats)
-
-<br/>
 
 
 
