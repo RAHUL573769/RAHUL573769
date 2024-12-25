@@ -1,6 +1,6 @@
 💫 About Me:
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=DejaVu+sans+mono&weight=900&size=35&pause=1000&color=E67144&center=true&vCenter=true&width=435&lines=Hello+World!;Hi 👋, I'm Rahul Rudra;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=DejaVu+sans+mono&weight=900&size=35&pause=1000&color=E67144&center=true&vCenter=true&width=435&lines=Hello+World!;Hi I'm Rahul Rudra;" />
 </h1>
 
 <h3 align="center">A passionate Web developer
