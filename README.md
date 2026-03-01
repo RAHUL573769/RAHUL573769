@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Full-Stack MERN Developer | JavaScript & TypeScript Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+MERN+Developer;Building+Scalable+Web+Applications;Clean+Code+%7C+Problem+Solver;Open+to+Remote+Opportunities+🌍" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Rahul+Rudra!;A+Passionate+Full-Stack+Web+Developer;MERN+Stack+%7C+JavaScript+%7C+TypeScript;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 </p>
 
 ---
