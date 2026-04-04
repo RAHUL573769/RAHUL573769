@@ -119,25 +119,23 @@ A productivity app to manage daily tasks with a clean UI and efficient state han
 
 ## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?username=RAHUL573769&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
 <p align="center">
-      <img src="https://streak-stats.demolab.com?username=RAHUL573769&theme=tokyonight" />
-    </p>
-
-
-<!-- ROW 2 -->
-<table align="center">
-  <tr>
-<td align="center">
-  <img src="https://streak-stats.demolab.com?username=RAHUL573769&theme=tokyonight" />
-</td>
-    <td align="center">
-      <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAHUL573769&theme=github_dark" />
 </p>
-  </tr>
-</table>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAHUL573769&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAHUL573769&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RAHUL573769&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RAHUL573769&theme=github_dark&utcOffset=6" />
+</p>
 ---
 
 
