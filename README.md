@@ -95,6 +95,41 @@ Short 1-line description of what the project does.
 
 ---
 
+<br><br>
+<h2 align="center">📈 GitHub Analytics</h2>
+<br>
+<!-- ROW 1 -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=alive1258&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAHUL573769&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
+<!-- ROW 2 -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAHUL573769&theme=github_dark" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RAHUL573769&theme=github_dark&utcOffset=6" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ACTIVITY GRAPH -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=RAHUL573769&theme=react-dark&bg_color=20232a&hide_border=true"
+  width="100%"
+/>
+
 ## 📈 Contribution Graph
 
 <p align="center">
