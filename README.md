@@ -85,15 +85,8 @@ Short 1-line description of what the project does.
 📂 GitHub: https://github.com/your-repo-link  
 
 ---
-<br><br>
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHUL573769&theme=tokyo-night&hide_border=true"/>
-</p>
 
 
-<br><br>
 <h2 align="center">📈 GitHub Analytics</h2>
 <br>
 <!-- ROW 1 -->
@@ -121,6 +114,16 @@ Short 1-line description of what the project does.
 </table>
 
 <br/>
+<br><br>
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHUL573769&theme=tokyo-night&hide_border=true"/>
+</p>
+
+
+<br><br>
+
 
 
 
