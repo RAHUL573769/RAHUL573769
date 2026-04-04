@@ -121,7 +121,7 @@ A productivity app to manage daily tasks with a clean UI and efficient state han
 
 
 <p align="center">
-      <img src="https://streak-stats.demolab.com?user=alive1258&theme=tokyonight" />
+      <img src="https://streak-stats.demolab.com?username=RAHUL573769&theme=tokyonight" />
     </p>
 
 
