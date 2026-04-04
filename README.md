@@ -119,22 +119,22 @@ A productivity app to manage daily tasks with a clean UI and efficient state han
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?username=RAHUL573769&theme=tokyonight" />
-</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAHUL573769&theme=github_dark" />
-</p>
+      <img src="https://streak-stats.demolab.com?user=alive1258&theme=tokyonight" />
+    </p>
+
+
 <!-- ROW 2 -->
 <table align="center">
   <tr>
+<td align="center">
+  <img src="https://streak-stats.demolab.com?username=RAHUL573769&theme=tokyonight" />
+</td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAHUL573769&theme=github_dark" />
-    </td>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alive1258&theme=github_dark&utcOffset=6" />
-    </td>
+      <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAHUL573769&theme=github_dark" />
+</p>
   </tr>
 </table>
 
