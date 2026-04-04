@@ -120,7 +120,7 @@ A productivity app to manage daily tasks with a clean UI and efficient state han
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?username=RAHUL573769&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com?username=RAHUL573769&theme=tokyonight" />
 </p>
 
 <p align="center">
