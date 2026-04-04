@@ -115,7 +115,7 @@ Short 1-line description of what the project does.
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAHUL573769&theme=github_dark" />
     </td>
     <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RAHUL573769&theme=github_dark&utcOffset=6" />
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RAHUL573769&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
