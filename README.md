@@ -92,7 +92,7 @@ Short 1-line description of what the project does.
 <h2 align="center">📈 GitHub Analytics</h2>
 <br>
 <!-- ROW 1 -->
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center">
       <img src="https://streak-stats.demolab.com?username=RAHUL573769&theme=tokyonight" />
@@ -101,7 +101,7 @@ Short 1-line description of what the project does.
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAHUL573769&theme=github_dark" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <!-- ROW 2 -->
 <table align="center">
@@ -117,11 +117,7 @@ Short 1-line description of what the project does.
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=RAHUL573769&theme=react-dark&bg_color=20232a&hide_border=true"
-  width="100%"
-/>
+
 
 ## 📈 Contribution Graph
 
