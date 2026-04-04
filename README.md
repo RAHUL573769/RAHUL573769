@@ -86,14 +86,7 @@ Short 1-line description of what the project does.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAHUL573769&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHUL573769&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
 
 <br><br>
 <h2 align="center">📈 GitHub Analytics</h2>
@@ -102,7 +95,7 @@ Short 1-line description of what the project does.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=alive1258&theme=tokyonight" />
+      <img src="https://streak-stats.demolab.com?username=RAHUL573769&theme=tokyonight" />
     </td>
     <td align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAHUL573769&theme=github_dark" />
