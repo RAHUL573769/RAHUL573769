@@ -62,7 +62,7 @@
 
 ## 📌 Featured Projects
 
-### 🔹 Project Name 1
+### 🔹 Sylcchi Palace
 Short 1-line description of what the project does.  
 **Tech Used:** React, Node.js, MongoDB  
 🔗 Live: https://sylcchi-palace.vercel.app/
@@ -70,7 +70,7 @@ Short 1-line description of what the project does.
 
 ---
 
-### 🔹 Project Name 2
+### 🔹 Skill Bridge
 Short 1-line description of what the project does.  
 **Tech Used:** React, Express, JWT Auth  
 🔗 Live: https://skillbridgepro.vercel.app/
