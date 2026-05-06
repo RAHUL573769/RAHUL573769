@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Rudra</h1>
 <h3 align="center">🚀 Full-Stack MERN Developer | JavaScript & TypeScript Enthusiast</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+I'm+Rahul+Rudra!;A+Passionate+Full-Stack+Web+Developer;MERN+Stack+%7C+JavaScript+%7C+TypeScript;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
 <img align="right" alt="coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -20,7 +20,7 @@
 - 🌍 Based in Bangladesh | Open to Remote Opportunities
 
 📫 **Email:** rudrarahul77@gmail.com  
-🌐 **Portfolio:** https://sites.google.com/view/rahul-rudra/home  
+🌐 **Portfolio:** https://project12-one.vercel.app/
 📂 **Projects:** https://github.com/RAHUL573769?tab=repositories  
 
 ---
@@ -65,26 +65,18 @@
 ### 🔹 Project Name 1
 Short 1-line description of what the project does.  
 **Tech Used:** React, Node.js, MongoDB  
-🔗 Live: https://your-live-link.com  
-📂 GitHub: https://github.com/your-repo-link  
+🔗 Live: https://sylcchi-palace.vercel.app/
+📂 GitHub: https://github.com/RAHUL573769/Assignment-05-FrontEnd- 
 
 ---
 
 ### 🔹 Project Name 2
 Short 1-line description of what the project does.  
 **Tech Used:** React, Express, JWT Auth  
-🔗 Live: https://your-live-link.com  
-📂 GitHub: https://github.com/your-repo-link  
+🔗 Live: https://skillbridgepro.vercel.app/
+📂 GitHub: https://github.com/RAHUL573769/Assignment-04-FrontEnd-
 
----
 
-### 🔹 Project Name 3
-Short 1-line description of what the project does.  
-**Tech Used:** MERN Stack  
-🔗 Live: https://your-live-link.com  
-📂 GitHub: https://github.com/your-repo-link  
-
----
 
 
 <h2 align="center">📈 GitHub Analytics</h2>
